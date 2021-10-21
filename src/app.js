@@ -18,7 +18,8 @@ let konutKredileri = [
     "Konut Kredisi",
     "Emlak Konut Kredisi",
     "Kamu Konut Kredisi",
-    "Ev Konut Kredisi"
+    "Ev Konut Kredisi",
+    "Kumes Konut Kredisi"
 ] 
 console.log("<ul>")
 for(let i = 0; i < konutKredileri.length; i++){
